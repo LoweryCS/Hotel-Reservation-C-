@@ -7,4 +7,4 @@ This program is designed to allow guests to reserve a hotel room that best fits 
 
 -The program then asks the guests for personal information, such as name, phone number, address, and credit card information. Phone number, zip code, and credit card number must be valid or the program will display an error message prompting the guest to make the needed changes.
 
--
+-After all guest information is validated, the prorgam will display another page showing the guest their personal information, number of total guests, number of nights they will be staying, check-out date, rate, and total cost including tax.
