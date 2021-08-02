@@ -12,29 +12,22 @@ namespace HotelReservation
 {
     public partial class Form4 : Form
     {
+        
         public Form4()
         {
-            InitializeComponent();
-            Form2 f2 = new Form2();
-            int x;
-            int a = 135;
-            int b = 169;
+            InitializeComponent();            
+        }
 
-            if (f2.radioButton1.Checked)
-            {
-                x = a;
-                label16.Text = Convert.ToString(x);
-            }
-            else if (f2.radioButton2.Checked)
-            {
-                x = b;
-                label16.Text = Convert.ToString(x);
-            }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 f3 = new Form3();            
+            f3.Show();
+            Visible = false;
+        }
 
-            
-
-
-            
+        private void close_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

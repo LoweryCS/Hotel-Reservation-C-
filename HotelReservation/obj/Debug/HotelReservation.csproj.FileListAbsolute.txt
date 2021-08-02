@@ -1,7 +1,6 @@
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe.config
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\bin\Debug\HotelReservation.exe
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\bin\Debug\HotelReservation.pdb
-C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csprojResolveAssemblyReference.cache
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form1.resources
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Properties.Resources.resources
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csproj.GenerateResource.cache
@@ -11,3 +10,4 @@ C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelRe
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form2.resources
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form3.resources
 C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.Form4.resources
+C:\Users\richy\Documents\Visual Studio 2017\Projects UI\HotelReservation\HotelReservation\obj\Debug\HotelReservation.csprojAssemblyReference.cache
